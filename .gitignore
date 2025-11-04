@@ -1,0 +1,17 @@
+# backup generati
+backups/
+*.tar.gz
+
+# log generati
+logs/
+*.log
+cron.out
+
+# file temporanei editor
+*.swp
+*.tmp
+~*
+
+# file di sistema
+.DS_Store
+Thumbs.bd
