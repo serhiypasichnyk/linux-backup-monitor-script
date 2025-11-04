@@ -15,11 +15,11 @@ Questo progetto contiene uno script Bash che esegue automaticamente il backup di
 2. Struttura del progetto
 
    progetto_test/
-   ├─ backup_monitor.sh
-   ├─ data/
-   ├─ backups/
-   ├─ logs/
-   └─ README.md
+   |- backup_monitor.sh
+   |- data/
+   |- backups/
+   |- logs/
+   |- README.md
 
 3. Configurazione
    Aprire il file "backup_monitor.sh" e controllare queste righe:
